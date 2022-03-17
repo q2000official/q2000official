@@ -10,4 +10,4 @@
 
 🥴You are an Idiot 2.0
 
-☕️Cappucino.js 
+☕️Cappuccino.js 
