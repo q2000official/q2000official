@@ -6,8 +6,8 @@
 
 **Not serious stuff i'm working on:** 
 
-Portfolio website
+💻Portfolio website
 
-You are an Idiot 2.0
+🥴You are an Idiot 2.0
 
-Cappucino.js
+☕️Cappucino.js 
