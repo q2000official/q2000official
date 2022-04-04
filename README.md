@@ -1,12 +1,8 @@
-# I'm q2000
+# I'm q2000, the one and only
 
-## I'm a Web-Developer and a computer scientist based in germany. 
+## I'm developer and a computer scientist based in germany. 
 
 
-**Not serious stuff i'm working on:** 
+**Yes** 
 
-💻Portfolio website
-
-🥴You are an Idiot 2.0
-
-☕️Cappuccino.js 
+Meatballs, i love meatballs
