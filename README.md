@@ -1,6 +1,6 @@
 # I'm q2000, the one and only
 
-## I'm developer and a computer scientist based in germany. 
+## I'm developer and a computer scientist based on the meatball plate. 
 
 
 **Yes** 
