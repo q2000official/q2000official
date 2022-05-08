@@ -1,4 +1,4 @@
-# I'm q2000, but you can call me q or q2k
+# I'm q2000, 
 
 ## I'm a developer & designer. 
 
