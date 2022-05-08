@@ -1,8 +1,7 @@
-# I'm q2000, the one and only
+# I'm q2000, but you can call me q or q2k
 
-## I'm developer and a computer scientist based on the meatball plate. 
+## I'm a developer & designer. 
 
 
-**Yes** 
+**https://www.instagram.com/q2000official/** 
 
-Meatballs, i love meatballs
