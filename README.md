@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm q2000 🐮</h1>
+<h1 align="center">Hi, I'm q2000</h1>
 <h3 align="center">Computer scientist & CAD Designer</h3>
 
 
